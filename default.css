@@ -65,13 +65,6 @@ a {
 	height: 680px;
 }
 
-#error {
-	margin: 0 auto;
-	text-align: center;
-	margin-top: 60px;
-	display: none;
-}
-
 .hand {
 	cursor: pointer;
 }
